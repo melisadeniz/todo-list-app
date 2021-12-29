@@ -1,6 +1,5 @@
 # TodoListApp
-
-https://user-images.githubusercontent.com/92738893/147710153-37898069-3c89-4a7d-b08d-1a6a5b061ca0.mp4
+https://user-images.githubusercontent.com/92738893/147710237-57204a7d-a4fd-40ad-a34f-b1298ae2026b.mp4
 
 #### This is a basic To-do project building with React.js
 #### Adding, completing and deleting functions are available. Keeps all entered tasks in localStorage.
@@ -11,3 +10,6 @@ https://user-images.githubusercontent.com/92738893/147710153-37898069-3c89-4a7d-
 - Bootstrap
 - SCSS
 - HTML
+
+
+
