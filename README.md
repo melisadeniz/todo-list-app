@@ -1,4 +1,4 @@
-# TodoListApp
+# Todo-List App
 
 ### This is a basic To-do project building with React. ✔️
 #### I developed the project by following [Dev Ed's](https://github.com/developedbyed) tutorial on Youtube. 
